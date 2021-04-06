@@ -1,0 +1,17 @@
+accounts.youtube.com
+adtidy.org
+amazonadsi-a.akamaihd.net
+cdn.appdynamics.com
+dc.services.visualstudio.com
+gs-loc.apple.com
+gstatic.com
+i.ytimg.com
+iadsdk.apple.com
+id.google.com
+ogs.google.com
+pricespider.com
+qualtrics.com
+www.msn.com
+xp.apple.com
+youtube-ui.l.google.com
+zorin.com
