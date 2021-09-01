@@ -8,6 +8,8 @@ gstatic.com
 i.ytimg.com
 iadsdk.apple.com
 id.google.com
+media.licdn.com
+media-exp1.licdn.com
 licdn.com
 ogs.google.com
 pricespider.com
