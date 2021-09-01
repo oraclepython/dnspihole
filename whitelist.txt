@@ -8,6 +8,7 @@ gstatic.com
 i.ytimg.com
 iadsdk.apple.com
 id.google.com
+licdn.com
 ogs.google.com
 pricespider.com
 qualtrics.com
