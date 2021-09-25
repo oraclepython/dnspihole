@@ -18,3 +18,11 @@ www.msn.com
 xp.apple.com
 youtube-ui.l.google.com
 zorin.com
+goguardian.com
+x3-predictor.goguardian.com
+quiddity.goguardian.com
+panther.goguardian.com
+inquisition.goguardian.com
+ip.goguardian.com
+countvoncount.goguardian.com
+waluigi.goguardian.com
