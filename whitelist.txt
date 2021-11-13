@@ -26,3 +26,4 @@ inquisition.goguardian.com
 ip.goguardian.com
 countvoncount.goguardian.com
 waluigi.goguardian.com
+graph.facebook.com
