@@ -1,3 +1,9 @@
+addresseepaper.com
+addthis.com
+amung.us
+google-analytics.com
+sterilecute.com
+venetrigni.com
 04v70ab.com
 0638.info
 1105media.com
@@ -59,6 +65,7 @@ a63t9o1azf.com
 aadserving.com
 aanqylta.com
 aax-us-east.amazon-adsystem.com
+aax-us-iad.amazon.com
 aax.amazon-adsystem.com
 abc-ads.com
 abreviation-net224.ml
@@ -247,6 +254,7 @@ anrdoezrs.net
 anydealcloudfileclicks.top
 aomeitech.com
 api.account.adobe.com
+app-measurement.com
 apple.com-fast-macbook.live
 applyfix.tech
 appround.biz
@@ -610,6 +618,7 @@ frtyg.com
 fruithosted.net
 fstrk.net
 ftxbwmvoxnfr.xyz
+ftxogpiw.xyz
 funtikapa.info
 fusac.fr
 fwmrm.net
@@ -854,6 +863,7 @@ lightboxcdn.com
 lijit.com
 likebtn.com
 linkbucks.com
+linkly.io
 linkz.net
 litix.io
 liveadvert.com
@@ -874,6 +884,7 @@ macdamaged.tech
 mackeeper.com
 macrobutton.win
 macsbond.com
+mads.amazon.com
 mads.com
 madsone.com
 managerremote.com
@@ -1572,6 +1583,7 @@ wg606exspu.top
 wg606exspu.win
 whegadry.com
 whois.co.kr
+wholeactualnewz.com
 whs82908.bid
 whs82908.com
 whs82908.net
@@ -1661,11 +1673,3 @@ zryydi.com
 zukxd6fkxqn.com
 zuphaims.com
 zzqhsrg.rucosignaba.com
-roblox.com
-ftxogpiw.xyz
-linkly.io
-wholeactualnewz.com
-omtrdc.net
-app-measurement.com
-aax-us-iad.amazon.com
-mads.amazon.com
