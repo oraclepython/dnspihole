@@ -1,4 +1,3 @@
-dashb2-web03.net
 04v70ab.com
 0638.info
 1105media.com
@@ -492,6 +491,7 @@ d3iz6k4o3699cb.cloudfront.net
 d3t9nyds4ufoqz.cloudfront.net
 da-ads.com
 daily-chance.info
+dashb2-web03.net
 dauid-iep.com
 daurifek.net
 defaulttransaction.com
@@ -1298,6 +1298,7 @@ securybrowseapp.com
 segmentify.com
 sekindo.com
 selectmouse.win
+sentimente.ro
 sentry.io
 seriouswheels.com
 serve-sys.com
