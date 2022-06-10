@@ -27,3 +27,6 @@ ip.goguardian.com
 countvoncount.goguardian.com
 waluigi.goguardian.com
 graph.facebook.com
+evolveip.net
+bitbucket.com
+bitbucket.org
