@@ -30,3 +30,6 @@ graph.facebook.com
 evolveip.net
 bitbucket.com
 bitbucket.org
+login.microsoftonline.com
+outlook.office365.com
+onedriveclucproddm20024.blob.core.windows.net
