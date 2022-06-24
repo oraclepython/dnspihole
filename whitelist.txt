@@ -33,3 +33,5 @@ bitbucket.org
 login.microsoftonline.com
 outlook.office365.com
 onedriveclucproddm20024.blob.core.windows.net
+login.live.com
+live.com
