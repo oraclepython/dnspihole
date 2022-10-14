@@ -118,3 +118,7 @@ xp.apple.com
 youtube-ui.l.google.com
 zorin.com
 metrics.icloud.com
+config.edge.skype.com
+outlookmobile-office365-tas.msedge.net
+www.outlook.com
+officeclient.microsoft.com
