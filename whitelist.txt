@@ -117,3 +117,4 @@ xboxab.com
 xp.apple.com
 youtube-ui.l.google.com
 zorin.com
+metrics.icloud.com
