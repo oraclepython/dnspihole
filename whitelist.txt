@@ -124,3 +124,4 @@ www.outlook.com
 officeclient.microsoft.com
 dteenergy.com
 gc.apple.com
+smoot.apple.com
