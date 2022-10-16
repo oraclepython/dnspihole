@@ -102,7 +102,6 @@
 @@||res.cloudinary.com^$important
 @@||s.ss2.us^$important
 @@||saa.cbsi.com^$important
-@@||sdk.iad-05.braze.com^$important
 @@||sessions.bugsnag.com^$important
 @@||settings-win.data.microsoft.com^$important
 @@||slscr.update.microsoft.com^$important
