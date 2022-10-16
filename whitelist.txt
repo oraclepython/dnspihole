@@ -46,6 +46,7 @@
 @@||firetvcaptiveportal.com^$important
 @@||fonts.gstatic.com^$important
 @@||fs.microsoft.com^$important
+@@||gateway.icloud.com^$important
 @@||gc.apple.com^$important
 @@||getpocket.com^$important
 @@||go.veeam.com^$important
