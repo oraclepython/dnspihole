@@ -13,6 +13,7 @@ backstory.ebay.com
 bitbucket.com
 bitbucket.org
 dropbox.com
+bolt.dropbox.com
 browser.pipe.aria.microsoft.com
 browser.sentry-cdn.com
 cbsinteractive.hb.omtrdc.net
@@ -125,3 +126,5 @@ officeclient.microsoft.com
 dteenergy.com
 gc.apple.com
 smoot.apple.com
+yellowpages.com
+duckduckgo.com
