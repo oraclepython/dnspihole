@@ -40,7 +40,7 @@
 @@||eds.xboxlive.com^$important
 @@||email-st.seekingalpha.com^$important
 @@||evolveip.net^$important
-@@||ext.goguardian.com^$important
+@@||goguardian.com^$important
 @@||fe3cr.delivery.mp.microsoft.com^$important
 @@||firebaseio.com^$important
 @@||firetvcaptiveportal.com^$important
