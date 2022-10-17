@@ -40,7 +40,6 @@
 @@||eds.xboxlive.com^$important
 @@||email-st.seekingalpha.com^$important
 @@||evolveip.net^$important
-@@||goguardian.com^$important
 @@||fe3cr.delivery.mp.microsoft.com^$important
 @@||firebaseio.com^$important
 @@||firetvcaptiveportal.com^$important
@@ -66,6 +65,7 @@
 @@||in.appcenter.ms^$important
 @@||inner-active.mobi^$important
 @@||inquisition.goguardian.com^$important
+@@||ip-tracker.org^$important
 @@||ironsrc.mobi^$important
 @@||isprog.com^$important
 @@||kinesis.us-east-1.amazonaws.com^$important
@@ -99,6 +99,7 @@
 @@||pricespider.com^$important
 @@||qualtrics.com^$important
 @@||quiddity.goguardian.com^$important
+@@||radarsubmissions.apple.com^$important
 @@||res.cloudinary.com^$important
 @@||s.ss2.us^$important
 @@||saa.cbsi.com^$important
@@ -106,12 +107,14 @@
 @@||settings-win.data.microsoft.com^$important
 @@||slscr.update.microsoft.com^$important
 @@||smartasset.com^$important
+@@||smartscreen-prod.microsoft.com^$important
 @@||smoot.apple.com^$important
 @@||snat.goguardian.com^$important
 @@||spclient.wg.spotify.com^$important
 @@||ssacdn.com^$important
 @@||stiripesurse.ro^$important
 @@||store-images.s-microsoft.com^$important
+@@||support.microsoft.com^$important
 @@||t.co^$important
 @@||tabletcaptiveportal.com^$important
 @@||tapstream.com^$important
@@ -127,6 +130,3 @@
 @@||yellowpages.com^$important
 @@||youtube-ui.l.google.com^$important
 @@||zorin.com^$important
-@@||ip-tracker.org^$important
-@@||support.microsoft.com^$important
-@@||radarsubmissions.apple.com^$important
