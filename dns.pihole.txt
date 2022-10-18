@@ -262,6 +262,7 @@
 ||anydealcloudfileclicks.top^$important
 ||aomeitech.com^$important
 ||api.account.adobe.com^$important
+||api.tiles.mapbox.com^$important
 ||app-measurement.com^$important
 ||apple.com-fast-macbook.live^$important
 ||applyfix.tech^$important
