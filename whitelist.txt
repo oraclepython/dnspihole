@@ -130,3 +130,4 @@
 @@||sockjs-goguardian.pusher.com^$important
 @@||clearlogin.com^$important
 @@||ntp.msn.com^$important
+@@||presence.teams.microsoft.com^$important
