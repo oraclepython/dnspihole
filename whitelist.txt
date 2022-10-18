@@ -58,7 +58,6 @@
 @@||hb-e8zk.raps.ravm.tv^$important
 @@||i.manage.microsoft.com^$important
 @@||i.ytimg.com^$important
-@@||iadsdk.apple.com^$important
 @@||ic3.events.data.microsoft.com^$important
 @@||id.google.com^$important
 @@||in.appcenter.ms^$important
