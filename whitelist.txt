@@ -53,7 +53,6 @@
 @@||goguardian.com^$important
 @@||googleapis.com^$important
 @@||googlevideo.com^$important
-@@||graph.facebook.com^$important
 @@||gs-loc.apple.com^$important
 @@||gstatic.com^$important
 @@||hb-e8zk.raps.ravm.tv^$important
