@@ -128,3 +128,4 @@
 @@||youtube-ui.l.google.com^$important
 @@||zorin.com^$important
 @@||sockjs-goguardian.pusher.com^$important
+@@||clearlogin.com^$important
