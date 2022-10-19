@@ -52,7 +52,6 @@
 @@||go.veeam.com^$important
 @@||go.xhamster.com^$important
 @@||goguardian.com^$important
-@@||googleapis.com^$important
 @@||googlevideo.com^$important
 @@||gs-loc.apple.com^$important
 @@||gstatic.com^$important
