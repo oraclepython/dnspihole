@@ -135,3 +135,4 @@
 @@||static.bunnycdn.ru^$important
 @@||normandy.cdn.mozilla.net^$important
 @@||incoming.telemetry.mozilla.org^$important
+@@||data.paddle.com^$important
