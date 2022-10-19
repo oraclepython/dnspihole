@@ -134,3 +134,4 @@
 @@||presence.teams.microsoft.com^$important
 @@||s1.bunnycdn.ru^$important
 @@||static.bunnycdn.ru^$important
+@@||normandy.cdn.mozilla.net^$important
