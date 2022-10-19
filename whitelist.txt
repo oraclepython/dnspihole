@@ -131,3 +131,5 @@
 @@||clearlogin.com^$important
 @@||ntp.msn.com^$important
 @@||presence.teams.microsoft.com^$important
+@@||s1.bunnycdn.ru^$important
+@@||static.bunnycdn.ru^$important
