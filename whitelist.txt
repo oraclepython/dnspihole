@@ -136,3 +136,4 @@
 @@||normandy.cdn.mozilla.net^$important
 @@||incoming.telemetry.mozilla.org^$important
 @@||data.paddle.com^$important
+@@||email.strava.com^$important
