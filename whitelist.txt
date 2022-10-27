@@ -23,6 +23,7 @@
 @@||cloudservices.roku.com^$important
 @@||config.edge.skype.com^$important
 @@||config.teams.microsoft.com^$important
+@@||teams.nel.measure.office.net^$important
 @@||teams.events.data.microsoft.com^$important
 @@||continuum.dds.microsoft.com^$important
 @@||ctldl.windowsupdate.com^$important
@@ -137,3 +138,5 @@
 @@||incoming.telemetry.mozilla.org^$important
 @@||data.paddle.com^$important
 @@||email.strava.com^$important
+@@||xhcdn.com^$important
+@@||skydrive.wns.windows.com^$important
