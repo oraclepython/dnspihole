@@ -140,3 +140,4 @@
 @@||email.strava.com^$important
 @@||xhcdn.com^$important
 @@||skydrive.wns.windows.com^$important
+@@||api.onedrive.com^$important
