@@ -1721,3 +1721,7 @@
 ||zuphaims.com^$important
 ||zzqhsrg.rucosignaba.com^$important
 ||purr.nytimes.com^$important
+||altheaprovence.com^$important
+||czyodebrac.pl^$important
+||moodle.com^$important
+||regioneo.pl^$important
