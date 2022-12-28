@@ -199,6 +199,8 @@
 ||adsniper.ru^$important
 ||adsoftheworld.com^$important
 ||adspredictiv.com^$important
+||adspy.com^$important
+||adspy.net^$important
 ||adsrvr.org^$important
 ||adsterra.com^$important
 ||adstream.com.ro^$important
@@ -242,6 +244,7 @@
 ||allornamenti.com^$important
 ||allowance.world^$important
 ||alooma.com^$important
+||altheaprovence.com^$important
 ||amadeusleonid.win^$important
 ||amazingstaff4download.stream^$important
 ||amazonbrowserapp.com^$important
@@ -486,6 +489,7 @@
 ||cuntempire.com^$important
 ||customsboysint.com^$important
 ||cxense.com^$important
+||czyodebrac.pl^$important
 ||d138am4hd4ke4y.cloudfront.net^$important
 ||d1pj87lvuhtbrb.cloudfront.net^$important
 ||d1pozdfelzfhyt.cloudfront.net^$important
@@ -967,6 +971,7 @@
 ||mobytrks.com^$important
 ||modulepush.com^$important
 ||moneymakercdn.com^$important
+||moodle.com^$important
 ||mookie1.com^$important
 ||moreakamaibestfileclicks.top^$important
 ||morphmiami.win^$important
@@ -1186,6 +1191,7 @@
 ||pubgears.com^$important
 ||pubmatic.com^$important
 ||pubmine.com^$important
+||purr.nytimes.com^$important
 ||puserving.com^$important
 ||pushance.com^$important
 ||pushazer.com^$important
@@ -1225,6 +1231,7 @@
 ||reelhd.com^$important
 ||reempresa.org^$important
 ||regadsgx.com^$important
+||regioneo.pl^$important
 ||register4freeandtestartsystemconfigurations4easyacessofcontent.bid^$important
 ||register4freeandtestartsystemconfigurations4easyacessofcontent.net^$important
 ||register4freeandtestartsystemconfigurations4easyacessofcontent.org^$important
@@ -1720,8 +1727,3 @@
 ||zukxd6fkxqn.com^$important
 ||zuphaims.com^$important
 ||zzqhsrg.rucosignaba.com^$important
-||purr.nytimes.com^$important
-||altheaprovence.com^$important
-||czyodebrac.pl^$important
-||moodle.com^$important
-||regioneo.pl^$important
