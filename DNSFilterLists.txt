@@ -1,0 +1,273 @@
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_24.txt
+    name: 1Hosts (Lite)
+
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_38.txt
+    name: 1Hosts (mini)
+
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt
+    name: AdGuard DNS filter
+ 
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_2.txt
+    name: AdAway Default Blocklist
+
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_4.txt
+    name: Dan Pollock's List
+ 
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_34.txt
+    name: HaGeZi Multi NORMAL
+ 
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_32.txt
+    name: The NoTracking blocklist
+ 
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_5.txt
+    name: OISD Blocklist Small
+
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt
+    name: OISD Blocklist Big
+
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
+    name: Peter Lowe's Blocklist
+
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_33.txt
+    name: Steven Black's List
+
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_39.txt
+    name: Dandelion Sprout's Anti Push Notifications
+
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_7.txt
+    name: Perflyst and Dandelion Sprout's Smart-TV Blocklist
+
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_23.txt
+    name: WindowsSpyBlocker - Hosts spy rules
+
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt
+    name: 'CHN: AdRules DNS List'
+
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_21.txt
+    name: 'CHN: anti-AD'
+
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_35.txt
+    name: 'HUN: Hufilter'
+
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_22.txt
+    name: 'IDN: ABPindo'
+
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_19.txt
+    name: 'IRN: PersianBlocker list'
+
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_25.txt
+    name: 'KOR: List-KR DNS'
+
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_15.txt
+    name: 'KOR: YousList'
+
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_36.txt
+    name: 'LIT: EasyList Lithuania'
+
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_20.txt
+    name: 'MKD: Macedonian Pi-hole Blocklist'
+
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_13.txt
+    name: 'NOR: Dandelion Sprouts nordiske filtre'
+
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_41.txt
+    name: 'POL: CERT Polska List of malicious domains'
+
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_14.txt
+    name: 'POL: Polish filters for Pi-hole'
+
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_17.txt
+    name: 'SWE: Frellwit''s Swedish Hosts File'
+
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_26.txt
+    name: 'TUR: turk-adlist'
+
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_40.txt
+    name: 'TUR: Turkish Ad Hosts'
+
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt
+    name: 'VNM: ABPVN List'
+
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_30.txt
+    name: Phishing URL Blocklist (PhishTank and OpenPhish)
+
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_12.txt
+    name: Dandelion Sprout's Anti-Malware List
+
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_8.txt
+    name: NoCoin Filter List
+
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
+    name: Scam Blocklist by DurableNapkin
+
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_42.txt
+    name: ShadowWhisperer's Malware List
+
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_31.txt
+    name: Stalkerware Indicators List
+
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_9.txt
+    name: The Big List of Hacked Malware Web Sites
+
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt
+    name: Malicious URL Blocklist (URLHaus)
+
+
+    url: https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+    name: AdGuard DNS filter
+    url: https://adaway.org/hosts.txt
+    name: AdAway Default Blocklist
+    url: https://adblock.mahakala.is
+    name: https://adblock.mahakala.is
+    url: https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
+    name: https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
+    url: https://raw.githubusercontent.com/tcptomato/ROad-Block/master/road-block-filters.txt
+    name: https://raw.githubusercontent.com/tcptomato/ROad-Block/master/road-block-filters.txt
+    url: https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
+    name: https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
+    url: https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
+    name: https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
+    url: https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+    name: https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+    url: https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
+    name: https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
+    url: https://hostsfile.mine.nu/hosts0.txt
+    name: https://hostsfile.mine.nu/hosts0.txt
+    url: https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
+    name: https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
+    url: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
+    name: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
+    url: https://phishing.army/download/phishing_army_blocklist_extended.txt
+    name: https://phishing.army/download/phishing_army_blocklist_extended.txt
+    url: https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
+    name: https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
+    url: https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
+    name: https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
+    url: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+    name: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+    url: https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
+    name: https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
+    url: https://raw.githubusercontent.com/danielciulinaru/dnspihole/master/dns.pihole.txt
+    name: https://raw.githubusercontent.com/danielciulinaru/dnspihole/master/dns.pihole.txt
+    url: https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/AdAway-Default-Blocklist.txt
+    name: https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/AdAway-Default-Blocklist.txt
+    url: https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/CryptoWall-Ransomware-C2-Domain-blocklist.txt
+    name: https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/CryptoWall-Ransomware-C2-Domain-blocklist.txt
+    url: https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/FadeMind-addSpam.txt
+    name: https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/FadeMind-addSpam.txt
+    url: https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Locky-Ransomware-C2-Domain-Blocklist.txt
+    name: https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Locky-Ransomware-C2-Domain-Blocklist.txt
+    url: https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Ransomware-Domain-Blocklist.txt
+    name: https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Ransomware-Domain-Blocklist.txt
+    url: https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/TeslaCrypt-Ransomware-C2-Domain-Blocklist.txt
+    name: https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/TeslaCrypt-Ransomware-C2-Domain-Blocklist.txt
+    url: https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/TeslaCrypt-Ransomware-Payment-Sites-Domain-Blocklist.txt
+    name: https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/TeslaCrypt-Ransomware-Payment-Sites-Domain-Blocklist.txt
+    url: https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/TorrentLocker-Ransomware-C2-Domain-Blocklist.txt
+    name: https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/TorrentLocker-Ransomware-C2-Domain-Blocklist.txt
+    url: https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/TorrentLocker-Ransomware-Payment-Sites-Domain-Blocklist.txt
+    name: https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/TorrentLocker-Ransomware-Payment-Sites-Domain-Blocklist.txt
+    url: https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/WindowsSpyBlocker81.txt
+    name: https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/WindowsSpyBlocker81.txt
+    url: https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
+    name: https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
+    url: https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
+    name: https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
+    url: https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
+    name: https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
+    url: https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
+    name: https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
+    url: https://raw.githubusercontent.com/hectorm/hmirror/master/data/eth-phishing-detect/list.txt
+    name: https://raw.githubusercontent.com/hectorm/hmirror/master/data/eth-phishing-detect/list.txt
+    url: https://raw.githubusercontent.com/hectorm/hmirror/master/data/fademind-add.2o7net/list.txt
+    name: https://raw.githubusercontent.com/hectorm/hmirror/master/data/fademind-add.2o7net/list.txt
+    url: https://raw.githubusercontent.com/hectorm/hmirror/master/data/fademind-add.dead/list.txt
+    name: https://raw.githubusercontent.com/hectorm/hmirror/master/data/fademind-add.dead/list.txt
+    url: https://raw.githubusercontent.com/hectorm/hmirror/master/data/fademind-add.risk/list.txt
+    name: https://raw.githubusercontent.com/hectorm/hmirror/master/data/fademind-add.risk/list.txt
+    url: https://raw.githubusercontent.com/hectorm/hmirror/master/data/fademind-add.spam/list.txt
+    name: https://raw.githubusercontent.com/hectorm/hmirror/master/data/fademind-add.spam/list.txt
+    url: https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
+    name: https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
+    url: https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks.txt
+    name: https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks.txt
+    url: https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
+    name: https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
+    url: https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
+    name: https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
+    url: https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
+    name: https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
+    url: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+    name: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+    url: https://raw.githubusercontent.com/vokins/yhosts/master/hosts
+    name: https://raw.githubusercontent.com/vokins/yhosts/master/hosts
+    url: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+    name: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+    url: https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
+    name: https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
+    url: https://someonewhocares.org/hosts/zero/hosts
+    name: https://someonewhocares.org/hosts/zero/hosts
+    url: https://urlhaus.abuse.ch/downloads/hostfile/
+    name: https://urlhaus.abuse.ch/downloads/hostfile/
+    url: https://v.firebog.net/hosts/AdguardDNS.txt
+    name: https://v.firebog.net/hosts/AdguardDNS.txt
+    url: https://v.firebog.net/hosts/Admiral.txt
+    name: https://v.firebog.net/hosts/Admiral.txt
+    url: https://v.firebog.net/hosts/Easylist.txt
+    name: https://v.firebog.net/hosts/Easylist.txt
+    url: https://v.firebog.net/hosts/Easyprivacy.txt
+    name: https://v.firebog.net/hosts/Easyprivacy.txt
+    url: https://v.firebog.net/hosts/Prigent-Ads.txt
+    name: https://v.firebog.net/hosts/Prigent-Ads.txt
+    url: https://v.firebog.net/hosts/Prigent-Crypto.txt
+    name: https://v.firebog.net/hosts/Prigent-Crypto.txt
+    url: https://v.firebog.net/hosts/static/w3kbl.txt
+    name: https://v.firebog.net/hosts/static/w3kbl.txt
+    url: https://winhelp2002.mvps.org/hosts.txt
+    name: https://winhelp2002.mvps.org/hosts.txt
+    url: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
+    name: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
+    url: https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
+    name: https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
+    url: https://big.oisd.nl
+    name: https://big.oisd.nl
+    url: https://raw.githubusercontent.com/oraclepython/dnspihole/master/dns.pihole.txt
+    name: https://raw.githubusercontent.com/oraclepython/dnspihole/master/dns.pihole.txt
+    url: https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-agh-online.txt
+    name: Online Malicious URL Blocklist
+    url: https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts
+    name: The Big List of Hacked Malware Web Sites
+    url: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt
+    name: Scam Blocklist by DurableNapkin
+    url: https://threatfox.abuse.ch/downloads/hostfile
+    name: https://threatfox.abuse.ch/downloads/hostfile
+    url: https://blocklistproject.github.io/Lists/alt-version/fraud-nl.txt
+    name: https://blocklistproject.github.io/Lists/alt-version/fraud-nl.txt
+    url: https://blocklistproject.github.io/Lists/alt-version/drugs-nl.txt
+    name: https://blocklistproject.github.io/Lists/alt-version/drugs-nl.txt
+    url: https://blocklistproject.github.io/Lists/alt-version/crypto-nl.txt
+    name: https://blocklistproject.github.io/Lists/alt-version/crypto-nl.txt
+    url: https://blocklistproject.github.io/Lists/alt-version/abuse-nl.txt
+    name: https://blocklistproject.github.io/Lists/alt-version/abuse-nl.txt
+    url: https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
+    name: https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
+    url: https://blocklistproject.github.io/Lists/alt-version/tracking-nl.txt
+    name: https://blocklistproject.github.io/Lists/alt-version/tracking-nl.txt
+    url: https://blocklistproject.github.io/Lists/alt-version/scam-nl.txt
+    name: https://blocklistproject.github.io/Lists/alt-version/scam-nl.txt
+    url: https://blocklistproject.github.io/Lists/alt-version/redirect-nl.txt
+    name: https://blocklistproject.github.io/Lists/alt-version/redirect-nl.txt
+    url: https://blocklistproject.github.io/Lists/alt-version/ransomware-nl.txt
+    name: https://blocklistproject.github.io/Lists/alt-version/ransomware-nl.txt
+    url: https://blocklistproject.github.io/Lists/alt-version/piracy-nl.txt
+    name: https://blocklistproject.github.io/Lists/alt-version/piracy-nl.txt
+    url: https://blocklistproject.github.io/Lists/alt-version/phishing-nl.txt
+    name: https://blocklistproject.github.io/Lists/alt-version/phishing-nl.txt
+    url: https://blocklistproject.github.io/Lists/alt-version/malware-nl.txt
+    name: https://blocklistproject.github.io/Lists/alt-version/malware-nl.txt
+    url: https://blocklistproject.github.io/Lists/alt-version/gambling-nl.txt
+    name: https://blocklistproject.github.io/Lists/alt-version/gambling-nl.txt
+    url: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/update.txt
+    name: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/update.txt
+    url: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/extra.txt
+    name: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/extra.txt
