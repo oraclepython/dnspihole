@@ -527,6 +527,8 @@
 ||dlvr.live^$important
 ||dnn506yrbagrg.cloudfront.net^$important
 ||dnslink.com^$important
+||doh.dns.apple.com.v.aaplimg.com^
+||doh.dns.apple.com^
 ||dokauzob.top^$important
 ||dolohen.com^$important
 ||domdex.com^$important
