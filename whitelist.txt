@@ -188,6 +188,8 @@
 @@||sockjs-goguardian.pusher.com^$important
 @@||spclient.wg.spotify.com^$important
 @@||ssacdn.com^$important
+@@||*.start.me^$important
+@@||start.me^$important
 @@||static.bunnycdn.ru^$important
 @@||steamcloudquincy.blob.core.windows.net^$important
 @@||stiripesurse.ro^$important
