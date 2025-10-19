@@ -13,6 +13,7 @@
 @@||answers.microsoft.com^$important
 @@||api.msn.com^$important
 @@||api.onedrive.com^$important
+@@||api.us-east-1.aiv-delivery.net^$client='192.168.40.130'
 @@||app.launchdarkly.com^$client='work'
 @@||appinventiv.com^$important
 @@||applovin.com^$important
@@ -163,6 +164,7 @@
 @@||mps.cnbc.com^$important
 @@||msftconnecttest.com^$important
 @@||msftncsi.com^$important
+@@||myflixerz.to^$important
 @@||nav.smartscreen.microsoft.com^$important
 @@||normandy.cdn.mozilla.net^$important
 @@||notification.services.msn.com^$important
@@ -191,6 +193,7 @@
 @@||qualtrics.com^$important
 @@||quiddity.goguardian.com^$important
 @@||radarsubmissions.apple.com^$important
+@@||receive-lp1.dg.srv.nintendo.net^$important
 @@||res.cloudinary.com^$important
 @@||ris.api.iris.microsoft.com^$important
 @@||rvid.imperium.com^$client='192.168.30.5'
@@ -232,6 +235,7 @@
 @@||t0.ssl.ak.tiles.virtualearth.net^$important
 @@||t2.hulu.com^$important
 @@||tabletcaptiveportal.com^$important
+@@||tailscale.com^$important
 @@||tapstream.com^$important
 @@||teams.nel.measure.office.net^$important
 @@||th.bing.com^$important
