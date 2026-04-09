@@ -6,6 +6,7 @@
 @@||*.start.me^$important
 @@||*.us.prod.service.minerva.devices.a2z.com^$important
 @@||*.us-east-1.prod.service.minerva.devices.a2z.com^$important
+@@||ablink.notice.hoopladigital.com
 @@||accounts.youtube.com^$important
 @@||activity.windows.com^$important
 @@||adtidy.org^$important
@@ -56,18 +57,22 @@
 @@||client.wns.windows.com^$important
 @@||clientconfig.passport.net^$important
 @@||clients.config.office.net^$important
+@@||cloudflare.com
 @@||cloudservices.roku.com^$important
 @@||config.edge.skype.com^$important
 @@||config.teams.microsoft.com^$important
 @@||continuum.dds.microsoft.com^$important
+@@||control2.tvinteractive.tv
 @@||crl.pki.goog^$important
 @@||crls.pki.goog^$client='192.168.40.186'
 @@||cstat.cdn-apple.com^$important
 @@||ctldl.windowsupdate.com^$important
 @@||d.dropbox.com^$important
+@@||d21m0ezw6fosyw.cloudfront.net
 @@||da.xboxservices.com^$important
 @@||data.paddle.com^$important
 @@||dc.services.visualstudio.com^$important
+@@||default.exp-tas.com
 @@||device.auth.xboxlive.com^$important
 @@||device-metrics-us.amazon.com^$important
 @@||device-provisioning.googleapis.com^$important
@@ -110,8 +115,10 @@
 @@||gateway.fe.apple-dns.net^$important
 @@||gateway.icloud.com^$important
 @@||gc.apple.com^$important
+@@||geo.captcha-delivery.com
 @@||geo.prod.do.dsp.mp.microsoft.com^$important
 @@||getpocket.com^$important
+@@||global.telemetry.insights.video.a2z.com
 @@||go.microsoft.com^$important
 @@||go.veeam.com^$important
 @@||go.xhamster.com^$important
@@ -119,6 +126,7 @@
 @@||googlevideo.com^$important
 @@||gpm.samsungqbe.com^$important
 @@||graph.facebook.com^$important
+@@||graph.whatsapp.com
 @@||gs-loc.apple.com^$important
 @@||gstatic.com^$important
 @@||hb-e8zk.raps.ravm.tv^$important
@@ -153,6 +161,7 @@
 @@||mask.icloud.com^$important
 @@||mask-api.icloud.com^$important
 @@||mask-h2.icloud.com^$important
+@@||mcp.tvinteractive.tv
 @@||mcrw-z862dvl0msjqvywb8v94yqm.device.marketingcloudapis.com^$important
 @@||media.licdn.com^$important
 @@||media.stiripesurse.ro^$important
@@ -171,6 +180,7 @@
 @@||ns.exitgames.com^$client='192.168.30.5'
 @@||ntp.msn.com^$important
 @@||o.ss2.us^$important
+@@||o939105.ingest.us.sentry.io
 @@||ocsp.pki.goog^$important
 @@||officeclient.microsoft.com^$important
 @@||ogs.google.com^$important
@@ -202,7 +212,9 @@
 @@||s1.bunnycdn.ru^$important
 @@||s3.bunnycdn.ru^$important
 @@||saa.cbsi.com^$important
+@@||sanalytics.disneyplus.com
 @@||scontent.xx.fbcdn.net^$important
+@@||sdk.split.io
 @@||sessions.bugsnag.com^$important
 @@||settings-win.data.microsoft.com^$important
 @@||sfdataservice.microsoft.com^$important
@@ -220,6 +232,7 @@
 @@||start.me^$important
 @@||static.bunnycdn.ru^$important
 @@||static.xx.fbcdn.net^$important
+@@||statics.teams.cdn.live.net
 @@||statsigapi.net^$client='192.168.30.5'
 @@||steamcloudquincy.blob.core.windows.net^$important
 @@||stiripesurse.ro^$important
@@ -228,6 +241,7 @@
 @@||store-images.microsoft.com^$important
 @@||store-images.s-microsoft.com^$important
 @@||sts3.wsj.net^$important
+@@||subscribe.washingtonpost.com
 @@||subscriptions.seekingalpha.com^$important
 @@||substrate.office.com^$important
 @@||support.microsoft.com^$important
@@ -238,6 +252,7 @@
 @@||tailscale.com^$important
 @@||tapstream.com^$important
 @@||teams.nel.measure.office.net^$important
+@@||telescope.callofduty.com
 @@||th.bing.com^$important
 @@||time.windows.com^$important
 @@||titlestoragencus0101.blob.core.windows.net^$important
@@ -247,6 +262,7 @@
 @@||truenas.com^$important
 @@||tsfe.trafficshaping.dsp.mp.microsoft.com^$important
 @@||umami.homarr.dev^$important
+@@||unagi-na.amazon.com
 @@||us-api.mcsvc.samsung.com^$important
 @@||use.typekit.net^$important
 @@||video.xx.fbcdn.net^$important
@@ -269,6 +285,7 @@
 @@||xboxab.com^$important
 @@||xhcdn.com^$important
 @@||xp.apple.com^$important
+@@||xp.atlassian.com
 @@||yellowpages.com^$important
 @@||youtube-ui.l.google.com^$important
 @@||zorin.com^$important
