@@ -124,7 +124,6 @@
 @@||go.xhamster.com^$important
 @@||goguardian.com^$important
 @@||googlevideo.com^$important
-@@||gpm.samsungqbe.com^$important
 @@||graph.facebook.com^$important
 @@||graph.whatsapp.com
 @@||gs-loc.apple.com^$important
